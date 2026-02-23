@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Frutas y verduras: características, conservación y manejo poscosecha'

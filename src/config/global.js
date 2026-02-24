@@ -206,7 +206,7 @@ export default {
         'oscurecimiento del alimento causado por reacciones químicas activadas por enzimas.',
     },
     {
-      termino: 'Perecibilidad:',
+      termino: 'Perecibilidad',
       significado:
         'grado de facilidad con el que un alimento se deteriora con el tiempo.',
     },

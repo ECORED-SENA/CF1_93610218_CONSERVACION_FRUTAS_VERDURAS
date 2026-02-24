@@ -106,7 +106,7 @@
                   img(src='@/assets/curso/temas/img12.svg', alt='').m-auto
               .col-xl
                 p.mb-0 El aroma constituye una característica sensorial clave en la aceptación de las frutas. El olor característico de las frutas se origina por la presencia de sustancias volátiles como ésteres, aldehídos, alcoholes, cetonas y terpenos. Estos compuestos influyen directamente en la preferencia del consumidor. 
-            p.mb-0 En la actualidad, técnicas analíticas como la cromatografía de gases permiten identificar y caracterizar las sustancias responsables de aromas específicos en l as frutas.
+            p.mb-0 En la actualidad, técnicas analíticas como la cromatografía de gases permiten identificar y caracterizar las sustancias responsables de aromas específicos en las frutas.
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img13.png', alt='').m-auto

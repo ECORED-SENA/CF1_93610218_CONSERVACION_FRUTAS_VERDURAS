@@ -257,7 +257,7 @@
                   img(src='@/assets/curso/temas/img67.png', alt='' style="max-width: 150px").m-auto 
             .row(titulo="Preenfriamiento con vacío").ajuste-cajaAcordion
               .col-xl
-                p.mb-3 Sistema que provoca la evaporación del agua aplicada a la superficie del producto mediante la reducción de la presión (vacuum), logrando que el agua se evapore a #[b 0 °C] y reduzca rápidamente la temperatura del alimento.
+                p.mb-3 Sistema que provoca la evaporación del agua aplicada a la superficie del producto mediante la reducción de la presión (#[i vacuum]), logrando que el agua se evapore a #[b 0 °C] y reduzca rápidamente la temperatura del alimento.
               .col-xl-auto
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img68.png', alt='' style="max-width: 150px").m-auto 
